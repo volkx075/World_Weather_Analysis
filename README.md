@@ -1,4 +1,6 @@
 # World Weather Analysis
+## Purpose
+
 ## Deliverable 1: Retrieve Weather Data
 ### Code:
 ![Weather Database Code](Weather_Database.ipynb)
