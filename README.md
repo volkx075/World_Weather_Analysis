@@ -9,5 +9,12 @@ Code:\
 ![Vacation Search Code](Vacation_Search.ipynb)\
 WeatherPy Vacation DataFrame:\
 ![WeatherPy DataFrame](Vacation_Search/WeatherPy_vacation.csv)\
-Vacation map:\
-![Vacation map](Vacation_Search/WeatherPy_vacation_map.PNG)\
+Vacation Map:\
+![Vacation map](Vacation_Search/WeatherPy_vacation_map.PNG)
+## Delieverable 3: Create a Travel Itinerary Map
+Code:\
+![Vacation Itinerary Code](Vacation_Itinerary.ipynb)\
+Travel Map:\
+![Travel Map](Vacation_Itinerary/WeatherPy_travel_map.PNG)\
+Travel Map with Map Markers:\
+![Travel Map with Markers](Vacation_Itinerary/WeatherPy_travel_map_markers.PNG)
