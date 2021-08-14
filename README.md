@@ -17,4 +17,4 @@ Code:\
 Travel Map:\
 ![Travel Map](Vacation_Itinerary/WeatherPy_travel_map.PNG)\
 Travel Map with Map Markers:\
-![Travel Map with Markers](Vacation_Itinerary/WeatherPy_travel_map_markers.PNG)
+![Travel Map with Markers](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
