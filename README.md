@@ -1,6 +1,6 @@
 # World Weather Analysis
 ## Purpose
-
+Jack and the beta testers are enjoying the PlanMyTrip app. However, now they are requesting some new updates to the app. They want the weather description along with the temperature. Our goal is to have beta testers enter an ideal min and max temperatures for their trip, then for it to output travel destinations and hotels. From there, the beta testers will create their travel itinerary by picking four cities. Lastly, we will create a travel route and marker layer map to show the travel itinerary using Google Maps Directions API. 
 ## Deliverable 1: Retrieve Weather Data
 ### Code:
 ![Weather Database Code](Weather_Database.ipynb)
